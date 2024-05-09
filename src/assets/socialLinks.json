@@ -16,5 +16,11 @@
     "icon": "/images/icon/qq.png",
     "tip": "腾讯网 ~",
     "url": "https://www.qq.com/"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "QQ邮箱 ~",
+    "url": "https://mail.qq.com/"
   }
 ]
